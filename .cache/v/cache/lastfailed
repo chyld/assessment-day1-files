@@ -1,0 +1,8 @@
+{
+  "test/unittests.py::TestAssessment1::test_array_work": true, 
+  "test/unittests.py::TestAssessment1::test_boolean_indexing": true, 
+  "test/unittests.py::TestAssessment1::test_cookie_jar": true, 
+  "test/unittests.py::TestAssessment1::test_data_frame_work": true, 
+  "test/unittests.py::TestAssessment1::test_make_series": true, 
+  "test/unittests.py::TestAssessment1::test_matrix_multiplication": true
+}
